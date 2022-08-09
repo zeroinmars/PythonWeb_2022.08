@@ -1,0 +1,2 @@
+conda activate base -> 가상환경 설정 conda를 베이스로 지정하는 문
+conda install selenium
